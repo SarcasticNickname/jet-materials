@@ -13,5 +13,5 @@ We’ve set up an official forum for the book at [https://forums.kodeco.com/c/bo
 | Branch                                                                           | Edition | Release Date |
 | ---------------------------------------------------------------------------------|:-------:|:------------:|
 | [editions/1.0](https://github.com/kodecocodes/jet-materials/tree/editions/1.0) | 1.0     | 2021-02-13   |
-| [editions/1.1](https://github.com/kodecodes/jet-materials/tree/editions/1.1) | 1.1     | 2021-05-07   |
+| [editions/1.1](https://github.com/kodecocodes/jet-materials/tree/editions/1.1) | 1.1     | 2021-05-07   |
 | [editions/2.0](https://github.com/kodecocodes/jet-materials/tree/editions/2.0) | 2.0     | 2023-03-29   |
