@@ -70,7 +70,8 @@ fun TextScreen() {
 @Composable
 @Preview
 fun MyText() {
-    Text(text = stringResource(id = R.string.jetpack_compose),
+    Text(
+        text = stringResource(id = R.string.jetpack_compose),
         fontStyle = FontStyle.Italic,
         color = colorResource(id = R.color.colorPrimary),
         fontSize = 30.sp,
